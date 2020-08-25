@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Pink Summer Socks"
+    "string": "Pink Pink Pink"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 40
   },
-  "glyphBounds": "{{1, 7}, {179, 16}}",
+  "glyphBounds": "{{1, 8}, {128, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Moog Synthesizer",
+  "name": "Pink Pink Pink",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
