@@ -9,7 +9,7 @@
     "red": 0.8074331974637681
   },
   "booleanOperation": -1,
-  "changeIdentifier": 960,
+  "changeIdentifier": 962,
   "clippingMaskMode": 0,
   "do_objectID": "9D628435-A932-4E1A-BEB7-A92BFEBAD4AD",
   "exportOptions": {
@@ -54,7 +54,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
