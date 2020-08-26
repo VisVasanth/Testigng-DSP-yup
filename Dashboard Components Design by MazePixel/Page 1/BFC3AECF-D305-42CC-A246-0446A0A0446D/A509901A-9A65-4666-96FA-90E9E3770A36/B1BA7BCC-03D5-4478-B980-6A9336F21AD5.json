@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 295,
+    "height": 313,
     "width": 590,
     "x": 0,
     "y": 0
@@ -43,7 +43,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "E73FFA3C-D4A4-4A69-83B3-0593C3106D6A_stringValue",
-      "value": "Edward Lindgren"
+      "value": "Hunter Fox"
     },
     {
       "_class": "overrideValue",
@@ -53,6 +53,16 @@
         "_ref": "images/4799cf2cac1fe47e20885e8864365da348cfefa7.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4515E997-A6BD-4D1D-BD3C-8F1CD8A88A8C_stringValue",
+      "value": "Creative Director, Web Team"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ED09B375-7220-4E49-97A0-7A1FC4380DC8_stringValue",
+      "value": "I grew a beard!"
     }
   ],
   "resizingConstraint": 63,
