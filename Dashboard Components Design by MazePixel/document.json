@@ -23,131 +23,7 @@
   },
   "colorSpace": 0,
   "do_objectID": "467D5732-1832-4ADE-A1BD-DE25968A8A9D",
-  "fontReferences": [
-    {
-      "_class": "fontReference",
-      "do_objectID": "30DF565C-2990-4D81-9259-3281B56074F4",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Italic.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-Italic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "360A06C9-6AD9-4015-871B-1617B888DA93",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Medium.ttf",
-      "options": 2,
-      "postscriptNames": [
-        "Roboto-Medium"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "4534A2F7-4988-4651-B513-E95E53DF9D7C",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-LightItalic.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-LightItalic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "543DFC50-8ADA-470B-ABE7-07FACA975336",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Bold.ttf",
-      "options": 2,
-      "postscriptNames": [
-        "Roboto-Bold"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "75E0E71F-83FF-43B2-B840-3CF7DB8D26FE",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-ThinItalic.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-ThinItalic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "95AEBC48-3FAE-460E-93EF-CA63E4726F4F",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Regular.ttf",
-      "options": 2,
-      "postscriptNames": [
-        "Roboto-Regular"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "BB852ECF-83A1-415E-864E-342BD23A47C0",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Black.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-Black"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "E00FA735-D230-4388-811B-9A8BA31F7582",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Thin.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-Thin"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "E78CFD66-127E-4D65-8DD9-A294235D1351",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-MediumItalic.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-MediumItalic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "EAB08EDD-D7BF-45A4-81C6-EC12DEE80A20",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-BlackItalic.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-BlackItalic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "EEDFF713-0937-4B84-8C4F-7BFC89A88E34",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-BoldItalic.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-BoldItalic"
-      ]
-    },
-    {
-      "_class": "fontReference",
-      "do_objectID": "FB78B81F-FF9E-492A-BACD-64E7DC259802",
-      "fontFamilyName": "Roboto",
-      "fontFileName": "Roboto-Light.ttf",
-      "options": 0,
-      "postscriptNames": [
-        "Roboto-Light"
-      ]
-    }
-  ],
   "foreignLayerStyles": [
-  ],
-  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -159,17 +35,12 @@
     ]
   },
   "meta": {
-    "appVersion": "68.1",
-    "build": 102560,
-    "version": 131
+    "appVersion": "63.1",
+    "build": 92452,
+    "version": 123
   },
   "pages": [
     "Page 1",
     "Symbols"
-  ],
-  "sharedSwatches": {
-    "_class": "swatchContainer",
-    "objects": [
-    ]
-  }
+  ]
 }
