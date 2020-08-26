@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "Rating",
   "nameIsFixed": true,
   "overrideValues": [
@@ -35,6 +35,11 @@
       "_class": "overrideValue",
       "overrideName": "73729821-DC26-4FA9-973A-251CA59360B6_layerStyle",
       "value": "8A4B168A-B09C-49EA-9C4B-BAB27B5D0963"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E9F5C219-DFE6-4BD0-8B70-3A6988901A26/8AD902D7-00EA-4D74-B73B-192F10EA7791_layerStyle",
+      "value": "4126A38A-05A9-4A53-B95B-75C8C9C62ED3"
     }
   ],
   "resizingConstraint": 41,
