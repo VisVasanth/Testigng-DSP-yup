@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 253,
-    "x": 168.5,
+    "width": 250,
+    "x": 170,
     "y": 289.5517241379309
   },
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "Btn",
   "nameIsFixed": true,
   "overrideValues": [
@@ -35,6 +35,11 @@
       "_class": "overrideValue",
       "overrideName": "0476C963-DD87-4D8B-A9FE-074577104971_stringValue",
       "value": "View Offer"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "931F5043-D398-45A2-A859-D1D1E7E013A1/3CD34123-CC79-451E-8CB2-F82CC5BB8FE6_layerStyle",
+      "value": "77B7AF2A-30D7-4F28-BEF1-2EE713191016"
     }
   ],
   "resizingConstraint": 45,
@@ -84,6 +89,26 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.3143484707696349,
+          "green": 0,
+          "red": 0.4808084239130435
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1

@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 68,
-    "x": 214,
+    "width": 88,
+    "x": 194,
     "y": 38
   },
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "Btn",
   "nameIsFixed": true,
   "overrideValues": [
@@ -49,7 +49,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "378E12B9-CB4C-42B9-8617-BB5E8BB163BE/3CD34123-CC79-451E-8CB2-F82CC5BB8FE6_layerStyle",
-      "value": "182457B6-22E5-49DF-A088-88B244EF6EAE"
+      "value": "77B7AF2A-30D7-4F28-BEF1-2EE713191016"
     }
   ],
   "resizingConstraint": 44,
@@ -99,6 +99,26 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.2565915834653626,
+          "green": 0,
+          "red": 0.349609375
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
